@@ -1,0 +1,15 @@
+Projection    OBLIQUE_MERCATOR                                                  
+Datum         NAD83                                                             
+Zunits        NO                                                                
+Units         METERS                                                            
+Spheroid      GRS1980                                                           
+Xshift        0.0000000000                                                      
+Yshift        0.0000000000                                                      
+Parameters                                                                      
+            2 /* Projection type < 1 | 2 >                                     
+0.99960 /* Scale factor at the projection's center                      
+-86  0  0.000 /* Longitude of the projection's center (DM                       
+ 45 18 33.000 /* Latitude  of the projection's center (DM                       
+337.25556 /* Azimuth at the projection's center                         
+2546731.49600 /* False easting  (meters)                                
+-4354009.81600 /* False northing (meters)                               

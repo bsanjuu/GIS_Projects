@@ -1,0 +1,7 @@
+20050207 728   0     5     0Sql-Replication       regionclean xx072844 xx072844
+20050207 728   0     0     0Sql-Replication     dropfeatures xx072844 region.*
+20050207 728   0     2     0Sql-Replication     reselect xx072844 e:\SDMTemp\export\e_66924\soil_mi073\arcinfo_temp_66924\smu_a_mi073
+20050207 729   1     0     0Sql-Replication     labelerrors e:\SDMTemp\export\e_66924\soil_mi073\arcinfo_temp_66924\smu_a_mi073 unlabeled
+20050207 729   0     1     0Sql-Replication           createlabels e:\SDMTemp\export\e_66924\soil_mi073\arcinfo_temp_66924\smu_a_mi073
+20050207 729   0    12     0Sql-Replication           build e:\SDMTemp\export\e_66924\soil_mi073\arcinfo_temp_66924\smu_a_mi073
+20050207 729   0     0     0Sql-Replication PROJECTDEFINE COVER e:\SDMTemp\export\e_66924\soil_mi073\arcinfo_temp_66924\smu_a_mi073
