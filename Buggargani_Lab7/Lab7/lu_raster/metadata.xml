@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240728</CreaDate><CreaTime>21234000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureToRaster" Date="20240728" Time="212340">FeatureToRaster landuse LU_CODE C:\Buggargani_Lab7\Lab7\lu_raster 50</Process></lineage></DataProperties></Esri></metadata>

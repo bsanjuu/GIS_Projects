@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240728</CreaDate><CreaTime>21502300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20240728" Time="215023">RasterCalculator "("lu_reclass" * 2 + "soil_reclass" * 3 + "slope_reclass" * 1 + "road_reclass" * 2) / 8" C:\Buggargani_Lab7\Lab7\calculation</Process></lineage></DataProperties></Esri></metadata>

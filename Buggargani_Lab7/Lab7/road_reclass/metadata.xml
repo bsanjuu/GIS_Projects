@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240728</CreaDate><CreaTime>21443400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20240728" Time="214434">Reclassify road_distance Value "0 100 1;100 200 2;200 300 3;300 400 4;400 600 5;600 700 4;700 800 3;800 1000 2;1000 2000 1" C:\Buggargani_Lab7\Lab7\road_reclass DATA</Process></lineage></DataProperties></Esri></metadata>

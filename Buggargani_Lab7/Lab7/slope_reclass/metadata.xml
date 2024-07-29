@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240728</CreaDate><CreaTime>21312200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20240728" Time="213122">Reclassify slope_raster VALUE "1 5;2 4;3 3;4 2;5 1" C:\Buggargani_Lab7\Lab7\slope_reclass DATA</Process></lineage></DataProperties></Esri></metadata>
